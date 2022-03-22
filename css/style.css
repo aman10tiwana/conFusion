@@ -37,3 +37,7 @@ body {
 .navbar-dark {
   background-color: #512DA8;
 }
+
+.form-group {
+  padding: 10px 0px 0px 0px;
+}
