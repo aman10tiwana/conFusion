@@ -20,10 +20,16 @@
   "license": "ISC",
   "devDependencies": {
     "cssmin": "^0.4.3",
+    "grunt": "^1.5.2",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-build-control": "^0.7.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
     "grunt-usemin": "^3.1.1",
     "gulp-terser": "^2.1.0",
     "gulp-uglify-es": "^3.0.0",
     "htmlmin": "^0.0.7",
+    "jit-grunt": "^0.10.0",
     "lite-server": "^2.3.0",
     "node-sass": "^7.0.1",
     "onchange": "^7.1.0",
@@ -31,6 +37,7 @@
     "rimraf": "^3.0.2",
     "terser": "^5.12.1",
     "terser-webpack-plugin": "^5.3.1",
+    "time-grunt": "^2.0.0",
     "uglify-es": "^3.3.9"
   },
   "dependencies": {
@@ -38,9 +45,9 @@
     "bootstrap-icons": "^1.8.1",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
+    "grunt-css": "^0.5.4",
     "jquery": "^3.6.0",
     "react-bootstrap": "^2.2.3",
     "usemin-cli": "^0.6.0"
   }
-
 }
