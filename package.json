@@ -34,6 +34,7 @@
     "cssmin": "^0.4.3",
     "del": "^6.1.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^4.0.0",
     "grunt": "^1.5.3",
     "grunt-browser-sync": "^2.2.0",
     "grunt-build-control": "^0.7.1",
